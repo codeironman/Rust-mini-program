@@ -1,1 +1,1 @@
-/Users/caofengyi/code/RUST/Rust-mini-program/LinkedList/target/debug/LinkList: /Users/caofengyi/code/RUST/Rust-mini-program/LinkedList/src/main.rs /Users/caofengyi/code/RUST/Rust-mini-program/LinkedList/src/node.rs
+/Users/caofengyi/code/RUST/Rust-mini-program/LinkedList/target/debug/LinkList: /Users/caofengyi/code/RUST/Rust-mini-program/LinkedList/src/main.rs
